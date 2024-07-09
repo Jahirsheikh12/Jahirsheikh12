@@ -1,6 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="header" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="header" height="300px"/>
 <h1 align="center">Hi 👋, I'm Jahiruddin Sheikh</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gif" width="450px"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahirsheikh12&label=Profile%20views&color=0e75b6&style=flat" alt="jahirsheikh12" /> </p>
 
@@ -15,7 +17,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **jahirsheikh211@gmail.com**
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gif" width="450px"/>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jahirsheikh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahirsheikh8" height="30" width="40" /></a>
