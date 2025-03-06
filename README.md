@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/jahirsheikh8" target="blank"><img src="https://img.shields.io/twitter/follow/jahirsheikh8?logo=twitter&style=for-the-badge" alt="jahirsheikh8" /></a> </p>
 
-- 🔭 I’m currently working on [Blog website](https://blog-website-nu-seven.vercel.app/)
-
 - 🌱 I’m currently learning **Next.js,backend development**
 
 - 💬 Ask me about **react**
